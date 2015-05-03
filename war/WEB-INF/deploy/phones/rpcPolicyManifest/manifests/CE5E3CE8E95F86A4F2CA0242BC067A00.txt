@@ -1,0 +1,2 @@
+serviceClass: pl.mborkowski.phones.client.PhonesService
+path: 9A57A73B5AD72F1AFDF123B6BDAE25EF.gwt.rpc
